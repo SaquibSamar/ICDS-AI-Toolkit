@@ -125,18 +125,3 @@ Due to the **sensitive nature of ICDS child data**, this prototype has been deve
 - **Pandas** (data processing)
 
 ---
-
-## 📂 Repository Structure
-ICDS-AI-Toolkit/
-│
-├── README.md
-├── LICENSE
-├── POWER_BI_GUIDE.md
-├── data/
-│ └── sample_icds_data.xlsx
-├── scripts/
-│ └── icds_ai_powerbi.py
-├── reports/
-│ └── ICDS_AI_Toolkit_Report.pdf
-└── screenshots/
-└── dashboard_view.png
