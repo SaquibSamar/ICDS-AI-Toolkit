@@ -125,3 +125,6 @@ Due to the **sensitive nature of ICDS child data**, this prototype has been deve
 - **Pandas** (data processing)
 
 ---
+
+## License
+This project is open-source and distributed under the MIT License, allowing free use, modification, and redistribution with attribution.
